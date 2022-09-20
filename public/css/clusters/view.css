@@ -1,0 +1,69 @@
+.cluster_heading{
+    background-color: black;
+}
+.message_heading{
+    background-color: #0a0808;
+    box-shadow: 5px 5px 6px black;
+
+}
+#input_box{
+    background-color: black;
+}
+#input_file{
+    background-color: transparent;   
+}
+#message{
+    background-color: transparent;   
+    color: white;
+}
+#content_box{
+    border: 2px solid black;
+}
+.btn01:hover{
+    background-color: rgb(42 54 41);
+}
+.btn02:hover{
+    background-color: rgb(94, 32, 32);
+   }
+.btn03:hover{
+    background-color: rgb(49 60 86);
+}
+.to_do_btn{
+    background: transparent;
+    color: green;
+    padding: 1px;
+}
+#userName{
+    color: white;
+    background-color: black;
+    margin: 6px 0px;
+}
+#userEmail{
+    color: white;
+    background-color: black;
+    margin: 6px 0px;
+}
+
+
+
+@media screen and (max-width: 750px) {
+    #cluster_name_heading{
+        font-size: 1.6rem;
+    }
+    #creater_name{
+        font-size: 1rem;
+        padding: 2px;
+    }
+    .btn01{
+        padding: 6px;
+    }
+    .btn02{
+        padding: 6px;
+    }
+    .btn03{
+        padding: 6px;
+    }
+    .des h5{
+        display: block;
+    }
+}

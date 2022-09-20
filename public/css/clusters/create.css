@@ -1,0 +1,17 @@
+.create_card{
+    background-color: #100f0f;
+    color: white;
+    box-shadow: 5px 5px 6px 1px black;
+}
+#cname{
+    background-color: transparent;
+    color: white;
+}
+#section{
+    background-color: transparent;
+    color: white;
+}
+#cluster_code{
+    background-color: transparent;
+    color: white;
+}
